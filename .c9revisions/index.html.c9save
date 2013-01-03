@@ -1,0 +1,4 @@
+{"ts":1357235262565,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1357235274175,"patch":[[{"diffs":[[1,"<html lang=\"pt-BR\">\r\n<head>\r\n    <meta charset=\"utf-8\" />\r\n\t<title>PodPlayer - Seu Podcast na Web </title>\r\n</head>\r\n<body>\r\n\t<audio src=\"http://jovemnerd.ig.com.br/podpress_trac/web/70722/0/nerdcast_343_hobbit_1.mp3\" controls preload> </audio>\r\n</body>\r\n</html>"]],"start1":0,"start2":0,"length1":0,"length2":262}]],"length":262,"saved":false}
+{"ts":1357235277407,"patch":[[{"diffs":[[0,"\n</html>"],[1,"\r\n"]],"start1":254,"start2":254,"length1":8,"length2":10}]],"length":264,"saved":false}
+{"ts":1357235279224,"patch":[[{"diffs":[[0,"\n</html>"],[-1,"\r\n"]],"start1":254,"start2":254,"length1":10,"length2":8}]],"length":262,"saved":false}
