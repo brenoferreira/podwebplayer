@@ -5,3 +5,23 @@
 {"ts":1357237562983,"patch":[[{"diffs":[[0,"\n</html>"],[1,"\r\n"]],"start1":254,"start2":254,"length1":8,"length2":10}]],"length":264,"saved":false}
 {"contributors":[],"silentsave":true,"ts":1357255669452,"patch":[[{"diffs":[[0,"itle>Pod"],[1,"Web "],[0,"Player -"]],"start1":62,"start2":62,"length1":16,"length2":20}]],"length":268,"saved":false}
 {"ts":1357255684887,"patch":[[{"diffs":[[0,"preload>"],[-1," "],[0,"</audio>"]],"start1":231,"start2":231,"length1":17,"length2":16}]],"length":267,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1357258408392,"patch":[[{"diffs":[[0,"title>\r\n"],[1,"    \r\n    <!--Style-->\r\n    <link type=\"text/css\" href=\"css/tema/smoothness/jquery-ui-1.8.22.custom.css\" rel=\"stylesheet\">\r\n    <link type=\"text/css\" href=\"css/dashboard.css\" rel=\"stylesheet\">\r\n"],[0,"</head>\r"]],"start1":104,"start2":104,"length1":16,"length2":210}]],"length":461,"saved":false}
+{"ts":1357258465151,"patch":[[{"diffs":[[0,"i-1."],[-1,"8.2"],[1,"9."],[0,"2.cu"]],"start1":196,"start2":196,"length1":11,"length2":10}]],"length":460,"saved":false}
+{"ts":1357258476551,"patch":[[{"diffs":[[0,"ema/"],[-1,"smoothness"],[1,"dot"],[0,"/jqu"]],"start1":173,"start2":173,"length1":18,"length2":11}]],"length":453,"saved":false}
+{"ts":1357258478986,"patch":[[{"diffs":[[0,"tema/dot"],[1,"-l"],[0,"/jquery-"]],"start1":172,"start2":172,"length1":16,"length2":18}]],"length":455,"saved":false}
+{"ts":1357258481031,"patch":[[{"diffs":[[0,"ma/dot-l"],[1,"uv"],[0,"/jquery-"]],"start1":174,"start2":174,"length1":16,"length2":18}]],"length":457,"saved":false}
+{"ts":1357258486737,"patch":[[{"diffs":[[0,"css/"],[-1,"tema/"],[0,"dot-"]],"start1":168,"start2":168,"length1":13,"length2":8}]],"length":452,"saved":false}
+{"ts":1357258500718,"patch":[[{"diffs":[[0,"css/"],[-1,"dashboard"],[1,"site"],[0,".css"]],"start1":259,"start2":259,"length1":17,"length2":12}]],"length":447,"saved":false}
+{"ts":1357258510828,"patch":[[{"diffs":[[0,"</title>"],[-1,"\r\n"],[0,"    \r\n  "]],"start1":102,"start2":102,"length1":18,"length2":16}]],"length":445,"saved":false}
+{"ts":1357258518667,"patch":[[{"diffs":[[0,"yle-->\r\n"],[1,"    <!--Style-->\r\n"],[0,"    <lin"]],"start1":126,"start2":126,"length1":16,"length2":34}]],"length":463,"saved":false}
+{"ts":1357258524440,"patch":[[{"diffs":[[0,"e>    \r\n    <!--"],[-1,"Style"],[0,"-->\r\n    <!--Sty"]],"start1":108,"start2":108,"length1":37,"length2":32}]],"length":458,"saved":false}
+{"ts":1357258533035,"patch":[[{"diffs":[[0,"    <!--"],[1,"JS"],[0,"-->\r\n   "]],"start1":116,"start2":116,"length1":16,"length2":18}]],"length":460,"saved":false}
+{"ts":1357258552494,"patch":[[{"diffs":[[0," <!--JS-->\r\n"],[1,"    <!--JS-->\r\n"],[0,"    <!--Styl"]],"start1":119,"start2":119,"length1":24,"length2":39}]],"length":475,"saved":false}
+{"ts":1357258557867,"patch":[[{"diffs":[[0,"e>    \r\n    <!--"],[-1,"JS"],[1,"Lib"],[0,"-->\r\n    <!--JS-"]],"start1":108,"start2":108,"length1":34,"length2":35}]],"length":476,"saved":false}
+{"ts":1357258558550,"patch":[[{"diffs":[[0," <!--Lib"],[1,"s"],[0,"-->\r\n   "]],"start1":119,"start2":119,"length1":16,"length2":17}]],"length":477,"saved":false}
+{"ts":1357258582897,"patch":[[{"diffs":[[0,"<!--"],[-1,"JS"],[1,"Functions"],[0,"-->\r"]],"start1":137,"start2":137,"length1":10,"length2":17}]],"length":484,"saved":false}
+{"ts":1357258649114,"patch":[[{"diffs":[[0,"<!--"],[-1,"L"],[1," l"],[0,"ibs"],[1," "],[0,"-->\r"]],"start1":120,"start2":120,"length1":12,"length2":14},{"diffs":[[0,"->\r\n    "],[1,"<script src=\"js/lib/jquery-1.8.3.js\"></script>\r\n\t<script src=\"js/lib/jquery-ui-1.9.2.custom.js\"></script>\r\n\t<script src=\"js/lib/underscore.js\"></script>\t\r\n\t\r\n\t"],[0,"<!--"],[1," "],[0,"Function"]],"start1":131,"start2":131,"length1":20,"length2":180},{"diffs":[[0,"unctions"],[1," "],[0,"-->\r\n"],[1,"\t<script src=\"js/pranchaCanvas.js\"></script>\t\r\n"],[0,"    <!--"]],"start1":304,"start2":304,"length1":21,"length2":69}]],"length":694,"saved":false}
+{"ts":1357258652567,"patch":[[{"diffs":[[0,"ript>\t\r\n"],[1,"    \r\n"],[0,"    <!--"]],"start1":357,"start2":357,"length1":16,"length2":22}]],"length":700,"saved":false}
+{"ts":1357258671560,"patch":[[{"diffs":[[0,"js/p"],[-1,"ranchaCanvas"],[1,"odWebPlayer"],[0,".js\""]],"start1":332,"start2":332,"length1":20,"length2":19}]],"length":699,"saved":false}
+{"ts":1357258717844,"patch":[[{"diffs":[[0,"title>    \r\n"],[1,"    \r\n"],[0,"    <!-- lib"]],"start1":104,"start2":104,"length1":24,"length2":30}]],"length":705,"saved":false}
+{"ts":1357258723189,"patch":[[{"diffs":[[0,"heet\">\r\n"],[1,"    \r\n"],[0,"</head>\r"]],"start1":542,"start2":542,"length1":16,"length2":22}]],"length":711,"saved":false}
